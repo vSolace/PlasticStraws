@@ -8,7 +8,7 @@ alert ("Warning. Some of the images you are about to see may be disturbing to yo
 h1 {
  color: Blue; 
  font-family: Calibri body;
- align: middle;
+ align: middle; <!-- will not align to middle. -->
 }
 </style>
 </head>
