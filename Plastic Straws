@@ -1,14 +1,24 @@
 <html>
-<title> Plastic Straws </title>
+<script>
+alert ("Warning. Some of the images you are about to see may be disturbing to young readers.")
+</script>
+<title> Plastic Straws And The Environment </title>
 <head>
-<!-- Put the heading in the center of the page. Play around with some fonts and see what you like best. --> 
 <style>
 h1 {
  color: Blue; 
  font-family: Calibri body;
+ align: middle;
 }
 </style>
 </head>
 <body>
 <h1> Plastic Straws And The Environment </h1>
+<p style="font-size:15px;">
+
+<!-- insert introduction here and move it to the right side. Maybe put it in a box and put a border around it? -->
+
+</p>
+
+</body>
 </html>
