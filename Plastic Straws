@@ -1,6 +1,7 @@
 <html>
 <title> Plastic Straws </title>
 <head>
+<!-- Put the heading in the center of the page. Play around with some fonts and see what you like best. --> 
 <style>
 h1 {
  color: Blue; 
@@ -9,5 +10,5 @@ h1 {
 </style>
 </head>
 <body>
-<h1> The Issues With Plastic Straws </h1>
+<h1> Plastic Straws And The Environment </h1>
 </html>
