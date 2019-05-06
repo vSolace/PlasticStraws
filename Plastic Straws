@@ -8,6 +8,7 @@ alert ("Warning. Some of the images you are about to see may be disturbing to yo
 h1 {
  color: Blue; 
  background-color:DodgerBlue;
+ border:2px solid Violet;
  font-family: Calibri body;
  text-align:center;
 }
