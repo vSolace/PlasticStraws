@@ -16,9 +16,21 @@ h1 {
 <h1> Plastic Straws And The Environment </h1>
 <p style="font-size:15px;">
 
-<!-- insert introduction here and move it to the right side. Maybe put it in a box and put a border around it? -->
+<!-- insert introduction here and move it to the left side. Maybe put it in a box and put a border around it? -->
 
 </p>
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="img1.jpg" style="width:30%">
+  <img class="mySlides" src="img2.jpg" style="width:30%">
+  <img class="mySlides" src="img3.jpg" style="width:30%">
+  <img class="mySlides" src="img4.jpg" style="width:30%">
+  
+  <!-- make sure to get images and rename the class and source to match -->
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#128540;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#128540;</button>
+</div>
 
 </body>
 </html>
