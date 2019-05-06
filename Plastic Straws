@@ -7,6 +7,7 @@ alert ("Warning. Some of the images you are about to see may be disturbing to yo
 <style>
 h1 {
  color: Blue; 
+ background-color:DodgerBlue;
  font-family: Calibri body;
  text-align:center;
 }
@@ -14,46 +15,12 @@ h1 {
 </head>
 <body>
 <h1> Plastic Straws And The Environment </h1>
+
 <p style="font-size:15px;">
 
 <!-- insert introduction here and move it to the left side. Maybe put it in a box and put a border around it? -->
 
 </p>
-
-<div class="w3-content w3-display-container">
-  <img class="mySlides" src="img1.jpg" style="width:30%">
-  <img class="mySlides" src="img2.jpg" style="width:30%">
-  <img class="mySlides" src="img3.jpg" style="width:30%">
-  <img class="mySlides" src="img4.jpg" style="width:30%">
-  
-  <!-- make sure to get images and rename the class and source to match -->
-
-  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#128540;</button>
-  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#128540;</button>
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
-<div class="w3-container w3-teal">
-  <p> Put something interesting here </p>
-</div>
 
 </body>
 </html>
