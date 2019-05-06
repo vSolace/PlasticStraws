@@ -12,6 +12,9 @@ h1 {
  font-family: Calibri body;
  text-align:center;
 }
+body {
+  background-color: lightblue;
+}
 </style>
 </head>
 <body>
