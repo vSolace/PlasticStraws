@@ -9,11 +9,18 @@ h1 {
  color: #; 
  background-color:DodgerBlue;
  border:2px solid Violet;
- font-family: Calibri body;
+ font-family: Wide Latin;
  text-align:center;
 }
 body {
   background-color: #ccefff;
+}
+h2 {
+color: #;
+background-color:DodgerBlue;
+border:2px solid Violet;
+font-family: Calibri body;
+text-align:center;
 }
 
 </style>
@@ -21,6 +28,7 @@ body {
 <body>
 <h1> Plastic Straws And The Environment </h1>
 
+<h2> Introduction </h2>
 
 <p style="font-size:15px;">
 
