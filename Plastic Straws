@@ -20,7 +20,14 @@ color: #;
 background-color:DodgerBlue;
 border:2px solid Violet;
 font-family: Calibri body;
+font-size: 22px; 
 text-align:center;
+}
+p {
+background-color: red;
+border:1px solid Black;
+text-align:center;
+font-size: 17px;
 }
 
 </style>
@@ -30,7 +37,11 @@ text-align:center;
 
 <h2> Introduction </h2>
 
-<p style="font-size:15px;">
+<p>
+Plastic straws. The plight of planet Earth. Responsible for thousands of deaths every single year. Resposible for the cluttering of our beaches and oceans. Responsible for the pollution of our environment. 
+There have been outcries for the ban of plastic straws for years but only recently have the desperate pleas been heard and furthermore, acted upon. 
+
+</p>
 
 <!DOCTYPE html>
 <html>
