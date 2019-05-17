@@ -6,7 +6,7 @@ alert ("Warning. Some of the images you are about to see may be disturbing to yo
 <head>
 <style>
 h1 {
- color: #; 
+ color: DarkRed;
  background-color:DodgerBlue;
  border:2px solid Violet;
  font-family: Wide Latin;
@@ -24,8 +24,8 @@ font-size: 22px;
 text-align:center;
 }
 p {
-background-color: red;
-border:1px solid Black;
+background-color: DodgerBlue;
+border:1px solid Violet;
 text-align:center;
 font-size: 17px;
 }
@@ -227,5 +227,15 @@ function showSlides(n) {
 
 </p>
 
+<p>
+Many people have begun to see the effect of plastic straws and have invested counteless hours and dollars into figuring out a way to track and reduce the consumption of plastic straws.
+</p>
+<p>
+One of the ways that people are beginning to look at tracking plastic straw consumption is via live counters.
+These counters would be able to find the average of plastic straws being produced around the world (or in specific areas) as well as calculate the average amount of plastic straws thrown away in the same selected area.
+Using this information, (that would be updated regularly), people would be able to see the impact of plastic straws in real-time. 
+This might offer some incentive for people to do something about plastic straws. They may see that the pollution that they are creating is destroying their home planet.
+Hopefully, people begin to ask themselves "why?", and start to look for alternative options.
+</p>
 </body>
 </html>
